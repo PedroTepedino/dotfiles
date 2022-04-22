@@ -15,7 +15,7 @@ call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.vim/plugged')
 
 Plug 'joshdick/onedark.vim'
 Plug 'octol/vim-cpp-enhanced-highlight'
-Plug 'valloric/youcompleteme'
+" Plug 'valloric/youcompleteme'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
